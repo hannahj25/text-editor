@@ -18,8 +18,21 @@ Refactor of an existing text editor application, so that it can be install as a 
 - [Acknowledgements](#acknowledgements)
 
 ## Screenshots
+Deployed webpage:
+![deployed-page](./assets/deployedpage.png)
+
+Opened with the installed application:
+![open-with](./assets/openwith.png)
+![installed-app](./assets//installedapp.png)
+
+Application icon:
+
+![app-icon](./assets/appicon.png)
 
 ## Link
+Link to deployed application:
+
+https://han-text-editor.herokuapp.com/
 
 ## License
 This project is covered under the MIT license.
