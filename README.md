@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Refactor of an existing text editor application, so that it can be install as a progressive web application and used offline.
+Refactor of an existing text editor application, so that it can be installed as a progressive web application and used offline.
 
 ## Table of Contents
 
